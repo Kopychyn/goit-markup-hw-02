@@ -70,7 +70,7 @@ button {cursor: pointer;}
 		font-weight: 700;
 		line-height: 1.07;	/* 107.143% */
 		letter-spacing: 0.02em;
-		color: var(--WHITE, #FFF)}
+		color: var(--WHITE, #FFFFFF)}
 	.main-herro-button{
 		font-family: Roboto, sans-serif;
 		font-size: 16px;
@@ -87,7 +87,7 @@ button {cursor: pointer;}
 
 	/* ============ABAUT US================ */
 	.about-us-name{
-		background-color:#FFFFFF ;
+		background-color:#FFFFFF;
 		color: #FFF;}   /* HIDDENT TEXT */
 
 	.about-us-content{
@@ -139,6 +139,8 @@ button {cursor: pointer;}
 
 	/* =============PORTFOLIO=============== */
 	.main-portfolio{
+		background-color: #FFFFFF;}
+	.team-item{
 		background-color: #FFFFFF;}
 	.main-portfolio-conternt{
 		text-align: center;
