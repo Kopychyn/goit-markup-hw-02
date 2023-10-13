@@ -85,6 +85,7 @@ button {cursor: pointer;}
 
 	/* ============ABAUT US================ */
 	.about-us-name{
+		background-color:#FFFFFF ;
 		color: #FFF;}   /* HIDDENT TEXT */
 
 	.about-us-content{
