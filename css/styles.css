@@ -33,31 +33,35 @@ button {cursor: pointer;}
 }
 	/* ==========/LOGOTYPE============ */
 
-	/* =============MENU=============== */
-	.menu-link{	
+	/* ==========HEADER============ */
+		.main-header{background-color:#FFFFFF;}
+		/* =============MENU=============== */
+		.menu-link{		
 		font-family: Roboto, sans-serif;
 		font-size: 16px;
 		font-weight: 500;
 		line-height: 1.5;		/* 150% */
 		letter-spacing: 0.02em;
-	color: var(--NAVY-BLUE, #2E2F42)
-}
-	.menu-link:hover{color: #404BBF;}
-	.menu-link:focus{color: #404BBF;}
-	/* =============/MENU=============== */
+		color: var(--NAVY-BLUE, #2E2F42)}
+		.menu-link:hover{color: #404BBF;}
+		.menu-link:focus{color: #404BBF;}
+		/* =============/MENU=============== */
 
-	/* =============ADRESS=============== */
-	.main-adress{font-style: normal}
-	.main-adress-link{
-		font-family: Roboto, sans-serif;
-		font-size: 16px;
-		font-weight: 400;
-		line-height: 1.5;	/* 150% */
-		letter-spacing: 0.02em;
-		color: var(--SLATE, #434455);}
-	.main-adress-link:hover{color:#404BBF;}
-	.main-adress-link:focus{color: #404BBF;}
-	/* =============/ADRESS=============== */
+		/* =============ADRESS=============== */
+		.main-adress{font-style: normal}
+		.main-adress-link{
+			font-family: Roboto, sans-serif;
+			font-size: 16px;
+			font-weight: 400;
+			line-height: 1.5;	/* 150% */
+			letter-spacing: 0.02em;
+			color: var(--SLATE, #434455);}
+		.main-adress-link:hover{color:#404BBF;}
+		.main-adress-link:focus{color: #404BBF;}
+		/* =============/ADRESS=============== */
+	/* ==========/HEADER============ */
+
+	
 
 	/* =============HERRO=============== */
 	.main-herro-section{
