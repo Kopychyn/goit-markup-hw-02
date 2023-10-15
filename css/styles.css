@@ -109,7 +109,8 @@ button {cursor: pointer;}
 		letter-spacing: 0.02em;
 		text-transform: capitalize;
 		color: var(--NAVY-BLUE, #2E2F42);
-	}
+		}
+	.team-item{background-color: #FFFFFF;}
 	.team-item-content{
 		text-align: center;
 		font-size: 20px;
