@@ -16,7 +16,6 @@ button {cursor: pointer;}
 .logotype { 
 	font-family: Raleway,	sans-serif;
 	font-size: 18px;
-	font-weight: 700;
 	line-height: 1.17;	/* 116.667% */
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
@@ -25,7 +24,6 @@ button {cursor: pointer;}
 	.logotype-studio{
 	font-family: Raleway, sans-serif;
 	font-size: 18px;
-	font-weight: 700;
 	line-height: 1.17;	/* 116.667% */
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
@@ -42,7 +40,8 @@ button {cursor: pointer;}
 		font-weight: 500;
 		line-height: 1.5;		/* 150% */
 		letter-spacing: 0.02em;
-		color: var(--NAVY-BLUE, #2E2F42)}
+		color: var(--NAVY-BLUE, #2E2F42)
+	}
 		.menu-link:hover{color: #404BBF;}
 		.menu-link:focus{color: #404BBF;}
 		/* =============/MENU=============== */
@@ -52,10 +51,10 @@ button {cursor: pointer;}
 		.main-adress-link{
 			font-family: Roboto, sans-serif;
 			font-size: 16px;
-			font-weight: 400;
 			line-height: 1.5;	/* 150% */
 			letter-spacing: 0.02em;
-			color: var(--SLATE, #434455);}
+			color: var(--SLATE, #434455);
+		}
 		.main-adress-link:hover{color:#404BBF;}
 		.main-adress-link:focus{color: #404BBF;}
 		/* =============/ADRESS=============== */
@@ -67,10 +66,10 @@ button {cursor: pointer;}
   .main-herro-content{
 		text-align: center;	font-family: Roboto, sans-serif;
 		font-size: 56px;
-		font-weight: 700;
 		line-height: 1.07;	/* 107.143% */
 		letter-spacing: 0.02em;
-		color: var(--WHITE, #FFFFFF)}
+		color: var(--WHITE, #FFFFFF)
+	}
 	.main-herro-button{
 		font-family: Roboto, sans-serif;
 		font-size: 16px;
@@ -78,7 +77,8 @@ button {cursor: pointer;}
 		line-height: 1.5;	/* 150% */
 		letter-spacing: 0.04em;
 		color: var(--WHITE, #FFF);
-		background-color: #4D5AE5;}
+		background-color: #4D5AE5;
+	}
 	.main-herro-button:hover {
 		background-color: #404BBF;	}
 	.main-herro-button:focus {
@@ -88,23 +88,23 @@ button {cursor: pointer;}
 	/* ============ABAUT US================ */
 	.about-us-name{
 		background-color:#FFFFFF;
-		color: #FFF;}   /* HIDDENT TEXT */
-
+		color: #FFF;
+	}   /* HIDDENT TEXT */
 	.about-us-content{
 		font-family: Roboto, sans-serif;
 		font-size: 20px;
 		font-weight: 500;
 		line-height: 1.2;	/* 120% */
 		letter-spacing: 0.02em;
-		color: var(--NAVY-BLUE, #2E2F42);}
-
+		color: var(--NAVY-BLUE, #2E2F42);
+	}
 	.about-us-content-text{
 		font-family: Roboto, sans-serif;
 		font-size: 16px;
-		font-weight: 400;
 		line-height: 1.5;	/* 150% */
 		letter-spacing: 0.02em;
-		color: var(--SLATE, #434455);}
+		color: var(--SLATE, #434455);
+	}
 	/* =============/ABAUT US=============== */
 
 	/* =============OUR TEAM=============== */
@@ -114,11 +114,11 @@ button {cursor: pointer;}
 		text-align: center;
 		font-family: Roboto, sans-serif;
 		font-size: 36px;
-		font-weight: 700;
 		line-height: 1.11;		/* 111.111% */
 		letter-spacing: 0.02em;
 		text-transform: capitalize;
-		color: var(--NAVY-BLUE, #2E2F42);}
+		color: var(--NAVY-BLUE, #2E2F42);
+	}
 	.team-item-content{
 		text-align: center;
 		font-family: Roboto, sans-serif;
@@ -126,15 +126,16 @@ button {cursor: pointer;}
 		font-weight: 500;
 		line-height: 1.2;		/* 120% */
 		letter-spacing: 0.02em;
-		color: var(--NAVY-BLUE, #2E2F42);}
+		color: var(--NAVY-BLUE, #2E2F42);
+	}
 	.team-item-text{
 		text-align: center;
 		font-family: Roboto, sans-serif;
 		font-size: 16px;
-		font-weight: 400;
 		line-height: 1.5;			/* 150% */
 		letter-spacing: 0.02em;
-		color: var(--SLATE, #434455);}
+		color: var(--SLATE, #434455);
+	}
 	/* =============/OUR TEAM=============== */
 
 	/* =============PORTFOLIO=============== */
@@ -146,25 +147,26 @@ button {cursor: pointer;}
 		text-align: center;
 		font-family: Roboto, sans-serif;
 		font-size: 36px;
-		font-weight: 700;
 		line-height: 1.11;	/* 111.111% */
 		letter-spacing: 0.02em;
 		text-transform: capitalize;
-		color: var(--NAVY-BLUE, #2E2F42);}
+		color: var(--NAVY-BLUE, #2E2F42);
+	}
 	.portfolio-item-content{
 		font-family: Roboto, sans-serif;
 		font-size: 20px;
 		font-weight: 500;
 		line-height: 1.2;	/* 120% */
 		letter-spacing: 0.02em;
-		color: var(--NAVY-BLUE, #2E2F42);}
+		color: var(--NAVY-BLUE, #2E2F42);
+	}
 	.portfolio-item-text{
 		font-family: Roboto, sans-serif;
 		font-size: 16px;
-		font-weight: 400;
 		line-height: 1.5;		/* 150% */
 		letter-spacing: 0.02em;
-		color: var(--SLATE, #434455);}
+		color: var(--SLATE, #434455);
+	}
 	/* =============/PORTFOLIO=============== */
 
 	/* =============FOOTER=============== */
@@ -173,27 +175,26 @@ button {cursor: pointer;}
 .logotype-footer{
 	font-family: Raleway, sans-serif;
 	font-size: 18px;
-	font-weight: 700;
 	line-height: 1.17;	/* 116.667% */
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
-	color: var(--IRIS, #4D5AE5);}
+	color: var(--IRIS, #4D5AE5);
+}
 .logotype-footer-studio{
 	font-family: Raleway,
 	sans-serif;
 	font-size: 18px;
-	font-weight: 700;
 	line-height: 1.17;	/* 116.667% */
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
-	color: var(--CLOUD, #F4F4FD);}
+	color: var(--CLOUD, #F4F4FD);
+}
 .main-footer-text{
 	font-family: Roboto;
 	font-size: 16px;
-	font-weight: 400;
 	line-height: 1.5;		/* 150% */
 	letter-spacing: 0.02em;
-	color: var(--CLOUD, #F4F4FD);}
-
+	color: var(--CLOUD, #F4F4FD);
+}
 	/* =============/FOOTER=============== */
 	
